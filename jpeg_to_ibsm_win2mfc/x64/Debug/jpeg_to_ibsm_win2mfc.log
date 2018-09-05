@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\samue\documents\visual studio 2017\projects\jpeg_to_ibsm_win2mfc\jpeg_to_ibsm_win2mfc\stdafx.h(19): fatal error C1083: Cannot open include file: 'afx.h': No such file or directory
